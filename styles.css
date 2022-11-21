@@ -1,0 +1,30 @@
+html {
+    background-image: url(https://preview.redd.it/x3rdifhzw61a1.jpg?width=5000&format=pjpg&auto=webp&s=90dfdd4e1b614ced91f999bb8d8550981235c2b8);
+    background-size: cover;
+}
+span {
+    display: block;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+.logo {
+    height: auto;
+    width: 200px;
+    padding-left: 10%;
+    margin: 10px;
+}
+.search {
+    height: auto;
+    width: 25px;
+    padding-right: 10%;
+    margin: 10px;
+    align-items: flex-end;
+}
+.glass {
+    width: 100%;
+    height: auto;
+}
+.lorem {
+    display: block;
+}
